@@ -3,6 +3,7 @@ package com.mycompany.sistemaoptica.web;
 import java.sql.*;
 import java.util.*;
 import org.springframework.stereotype.Component;
+import java.math.BigDecimal;
 
 @Component
 public class Db {
